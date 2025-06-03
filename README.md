@@ -24,5 +24,5 @@ Le modèle peut détecter les émotions suivantes :
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/TON-UTILISATEUR/emotion-detector-cnn.git
+git clone  https://github.com/Saif1005/emotion-detector-cnn.git
 cd emotion-detector-cnn
